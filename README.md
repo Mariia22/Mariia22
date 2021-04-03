@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mariia from Poland
-- 👀 I’m interested in frontened developing
+- 👀 I’m interested in frontend developing
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on with other developers
 - 📫 How to reach me m.ushakova22@gmail.com
