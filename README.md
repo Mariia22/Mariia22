@@ -1,6 +1,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/XE90Rm9DzCVfHb7zTe/giphy.gif" width="100"/>
   <p>Hi there 👋</p>
+  <p>🔭 I have about 8 years of experience in production and sales automation as a 1C Programmer and Lead Support Specialist 1C. After relocation to Poland, I've decided to change the technology stack. Now I work with JS and React.</p>
+<p>📫 I have work permit in Poland (karta pobytu z adnotacją "dostęp do rynku pracy") and I can work under a contract B2B</p>
   <div id="badges">
   <a href="https://www.linkedin.com/in/mariia-ushakova/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -26,6 +28,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+###
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mariia22&layout=compact&theme=vision-friendly-dark)](https://github.com/Mariia22/github-readme-stats)
 
 ### :fire: My Stats :
 
