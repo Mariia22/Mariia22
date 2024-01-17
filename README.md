@@ -33,11 +33,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mariia22&layout=compact&theme=vision-friendly-dark)](https://github.com/Mariia22/github-readme-stats)
 
+<!--
 ### :fire: My Stats :
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Mariia22)](https://git.io/streak-stats)
 
-<!--
+
 **Mariia22/Mariia22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
