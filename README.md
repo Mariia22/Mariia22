@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div id="header" align="left">
   <img src="https://media.giphy.com/media/XE90Rm9DzCVfHb7zTe/giphy.gif" width="100"/>
   <p>Hi there 👋</p>
   <p>🔭 I have about 8 years of experience in production and sales automation as a 1C Programmer and Lead Support Specialist 1C. After relocation to Poland, I've decided to change the technology stack. Now I work with JS and React.</p>
