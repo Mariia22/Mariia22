@@ -1,7 +1,7 @@
 <div id="header" align="left">
   <p>Hi there 👋</p>
   <p>🔭 I have about 8 years of experience in production and sales automation as a 1C Programmer and Lead Support Specialist 1C. After relocation to Poland, I've decided to change the technology stack. Now I work with JS and React.</p>
-<p>📫 I have work permit in Poland (karta pobytu z adnotacją "dostęp do rynku pracy") and I can work under a contract B2B</p>
+<p>📫 I have work permit in Poland (karta pobytu rezydenta długoterminowego UE) and I can work under a contract B2B</p>
   <div id="badges">
   <a href="https://www.linkedin.com/in/mariia-ushakova/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
